@@ -1,0 +1,5 @@
+Taller 1: Nota 4.6
+    * Grado estudiante debía inicializarse
+    * linea 13, sobra
+
+Taller 2: Nota Sustentar
