@@ -25,9 +25,9 @@ console.log("El Area es de " + (base + altura));
 
 console.log("Solucion Punto #3");
 
-var radio;
+var diametro;
 radio = parseInt(prompt("Favor Ingresar El Radio") );
-console.log("El Area Del Circulo Es ", Math.PI * radio * radio)
+console.log("El Area Del Circulo Es ", Math.PI * diametro)
 
 console.log("Solucion Punto #4");
 
