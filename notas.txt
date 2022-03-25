@@ -1,5 +1,9 @@
+David Peña
+
 Taller 1: Nota 4.6
     * Grado estudiante debía inicializarse
     * linea 13, sobra
 
 Taller 2: Nota Sustentar
+
+Taller 3: Nota 5 en el primer taller 4.5 en el segundo
