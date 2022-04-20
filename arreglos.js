@@ -62,3 +62,14 @@ console.log(ArregloArTecDes);
 ArregloArTecDes[4]="8000"
 console.log(ArregloArTecDes[4])
 
+
+
+console.log("1: Falso")
+console.log("2: Falso")
+console.log("3: Verdadero")
+console.log("4: Verdadero")
+console.log("5: Verdadero")
+console.log("6: Falso")
+console.log("7: Verdadero")
+console.log("8: Verdadero")
+console.log("9: Falso")
