@@ -19,3 +19,8 @@ Arreglo (observaciones generales del archivo): Nota 1
         + punto 2. No retorna lo que se pide
         + punto 3 sin solucionar
         + los console.log debían imprimir el arreglo completo
+
+
+*********************************************** segundo periodo
+
+ Enlace examen: https://acortar.link/5UUBF0
