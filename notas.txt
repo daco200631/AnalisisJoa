@@ -7,3 +7,20 @@ Taller 1: Nota 4.6
 Taller 2: Nota Sustentar
 
 Taller 3: Nota 5 en el primer taller 4.5 en el segundo
+
+Arreglo (observaciones generales del archivo): Nota 1
+    * Falta código: modificar jose por mario, 14 por 18
+    * linea 24 era 4.8
+    * No hay código en agregar elemento
+    * No hay código de eliminar elemento
+    * Quiz:
+        + El arreglo no está creado como se pidió
+        + lineas 54 a 59, no realizan nada.
+        + punto 2. No retorna lo que se pide
+        + punto 3 sin solucionar
+        + los console.log debían imprimir el arreglo completo
+
+
+*********************************************** segundo periodo
+
+ Enlace examen: https://acortar.link/5UUBF0
