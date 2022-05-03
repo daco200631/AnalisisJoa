@@ -145,3 +145,48 @@ console.log (nombre[0]);
 //Para encontrar el caracter en la ultima posicion de una cadena o un vector se debe buscar 
 //la longitud -1 (.lengt-1)
 console.log (nombre[nombre.length -1]);
+
+
+var tocaEduFisica= "no";
+var uniforme = "diario";
+ 
+if(tocaEduFisica == "si"){
+    uniforme = "edu. física";
+}
+ 
+console.log("Mañana debe vestir el uniforme de " + uniforme);
+
+var diaSiguiente= "lunes";
+var uniforme = "diario";
+ 
+if(diaSiguiente == "martes" || diaSiguiente == "jueves"){
+    uniforme = "edu. física";
+}
+ 
+console.log("Mañana debe vestir el uniforme de " + uniforme);
+
+var hayGaseosa = "no";
+var bebida;
+ 
+if(hayGaseosa == "si"){
+    bebida = "gaseosa";
+}else{
+    bebida = "refresco de fruta"
+}
+ 
+console.log("la bebida que acompaña su pedido es " + bebida);
+
+var diaSiguiente = "jueves"
+var cuaderno;
+ 
+if(diaSiguiente == "lunes" || diaSiguiente == "martes"){
+    cuaderno="Análisis";
+}else if(diaSiguiente == "miercoles"){
+    cuaderno="Tecnología";
+}else if(diaSiguiente == "jueves"){
+    cuaderno="Desarrollo"
+}else{
+    cuaderno="Ninguno";
+}
+ 
+console.log("Para la clase de mañana con el profesor Andres debe guardar el cuaderno de " +cuaderno);
