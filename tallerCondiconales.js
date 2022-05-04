@@ -135,3 +135,38 @@ if (  SegundoNumero == 0){
 
 //11
 
+var dia
+var platodia
+dia="monday"
+
+if (dia == "Lunes"){
+  platodia = "Arroz con pollo"
+  console.log("El plato del dia es " + platodia)
+} else if (dia == "Martes"){
+  platodia="Chuleta de cerdo"
+  console.log("El plato del dia es " + platodia)
+}else if (dia=="Miercoles"){
+  platodia="Frijoles"
+  console.log("El plato del dai es " +platodia)
+} else if (dia=="Jueves"){
+  platodia="Sancocho de Pesacado"
+  console.log("El plato del dia es " + platodia)
+} else if (dia=="Viernes"){
+  platodia="Bandeja paisa"
+  console.log("El palto del dia es " + platodia)
+} else if (dia=="Sabado"){
+  platodia="Ajiaco"
+  console.log("El plato del dia es " + platodia)
+} else if (dia=="Domingo"){
+  platodia="Sancocho del Gallina"
+  console.log("El plato del dia es " + platodia)
+} else {console.log("Ta cerrao")}
+
+//12
+var algo
+algo = "b"
+if(algo==1 || algo == 2 ||algo==3||algo==4||algo==5||algo==6||algo==7||algo==8||algo==9||algo==0){
+  console.log("Es un numero")
+} else if (algo=="a"||algo=="e"||algo=="i"||algo=="o"||algo=="u"){
+  console.log("Es una vocal")
+} else {(console.log("Es una consonante"))}
