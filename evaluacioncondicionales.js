@@ -78,7 +78,7 @@ var obsequio;
  var pulgadas
  var domicilio
  var totalpagar
-pulgadas = 88
+pulgadas = 37
 domicilio = 24000
  if (pulgadas == 37){
     totalpagar 

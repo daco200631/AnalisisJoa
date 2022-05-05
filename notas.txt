@@ -24,3 +24,6 @@ Arreglo (observaciones generales del archivo): Nota 1
 *********************************************** segundo periodo
 
  Enlace examen: https://acortar.link/5UUBF0
+
+Examen: Nota 5
+    * linea 24, no cumple con lo que dice el mensaje
