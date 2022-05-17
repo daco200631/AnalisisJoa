@@ -1,7 +1,7 @@
 //David Peña
 //Taller Condiconales
 //1.Cree un ciclo while que se repita 7 veces, en cada vez debe imprimir el número de repeticiones que lleva.
-/*console.log("Punto 1")
+console.log("Punto 1")
 
 var vex
 vax = 0
@@ -80,7 +80,7 @@ respuestapersona=prompt("Cual crees que es la respuesta")
 intentos +=1
 console.log("El numero de intentos realizado es " + intentos)
  }
-*/
+
 //8
 console.log("Punto 8")
 var profesor=prompt("ingrese el nombre del estudiante")
