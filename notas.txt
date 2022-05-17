@@ -27,3 +27,8 @@ Arreglo (observaciones generales del archivo): Nota 1
 
 Examen: Nota 5
     * linea 24, no cumple con lo que dice el mensaje
+
+Taller condicionales: Nota 4.6
+    * linea 39, falta una condicion
+    * linea 54, sobra el = del 80
+    * linea 56, falta un = para que sea comparación
