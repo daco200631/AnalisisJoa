@@ -32,3 +32,13 @@ Taller condicionales: Nota 4.6
     * linea 39, falta una condicion
     * linea 54, sobra el = del 80
     * linea 56, falta un = para que sea comparación
+
+Taller while: Nota 4.7
+    * linea 81, debe ir fuera del ciclo
+    * mejorar el mensaje de la linea 101
+
+examen while: nota 5
+    * punto 4, no debía pedir la cantidad de articulos
+    * linea 49, es >=15
+    * linea 52, el else no lleva condicion
+    * y si la cantidad es menor a 8, cuánto paga?
